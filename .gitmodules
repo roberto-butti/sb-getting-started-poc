@@ -1,3 +1,4 @@
 [submodule "sveltekit"]
+	branch = main
 	path = sveltekit
 	url = https://github.com/storyblok/sveltekit-ultimate-tutorial-series
