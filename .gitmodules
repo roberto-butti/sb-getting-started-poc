@@ -1,3 +1,6 @@
 [submodule "sveltekit-tutorial"]
 	path = sveltekit-tutorial
 	url = https://github.com/storyblok/sveltekit-ultimate-tutorial-series
+[submodule "exemple-sveltekit"]
+	path = sveltekit
+	url = https://github.com/roberto-butti/example-sveltekit
